@@ -34,3 +34,6 @@ but you also get a snapshot of your environment.
 
 In this example we include the library `seaborn` which will be installed in
 the environment, and our notebook uses it to plot a figure.
+
+
+Just another test for Binder
